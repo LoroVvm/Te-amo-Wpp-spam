@@ -22,9 +22,116 @@ async function enviarScript(scriptText){
 	return lines.length;
 }
 
-enviarScript(` 
+enviarScript(`
 
-
-
-
+I love you
+Te amo
+Je t’aime
+Ich liebe dich
+Ti amo
+Eu te amo
+Я тебя люблю (Ya tebya lyublyu)
+我爱你 (Wǒ ài nǐ)
+愛してる (Aishiteru)
+사랑해 (Saranghae)
+أحبك (Uḥibbuka / Uḥibbuki)
+אני אוהב אותך (Ani ohev otach)
+मैं तुमसे प्यार करता हूँ (Main tumse pyaar karta hoon)
+আমি তোমায় ভালোবাসি (Āmi tōmāẏ bhālōbāsi)
+أنا أحبك (Ana uhibbuka)
+אני אוהב אותך (Ani ohev otach)
+Je t’aime
+Ich liebe dich
+Ti amo
+Eu te amo
+Я тебя люблю (Ya tebya lyublyu)
+我爱你 (Wǒ ài nǐ)
+愛してる (Aishiteru)
+사랑해 (Saranghae)
+أحبك (Uḥibbuka / Uḥibbuki)
+אני אוהב אותך (Ani ohev otach)
+मैं तुमसे प्यार करता हूँ (Main tumse pyaar karta hoon)
+আমি তোমায় ভালোবাসি (Āmi tōmāẏ bhālōbāsi)
+أنا أحبك (Ana uhibbuka)
+אני אוהב אותך (Ani ohev otach)
+Je t’aime
+Ich liebe dich
+Ti amo
+Eu te amo
+Я тебя люблю (Ya tebya lyublyu)
+我爱你 (Wǒ ài nǐ)
+愛してる (Aishiteru)
+사랑해 (Saranghae)
+أحبك (Uḥibbuka / Uḥibbuki)
+אני אוהב אותך (Ani ohev otach)
+मैं तुमसे प्यार करता हूँ (Main tumse pyaar karta hoon)
+আমি তোমায় ভালোবাসি (Āmi tōmāẏ bhālōbāsi)
+أنا أحبك (Ana uhibbuka)
+אני אוהב אותך (Ani ohev otach)
+Je t’aime
+Ich liebe dich
+Ti amo
+Eu te amo
+Я тебя люблю (Ya tebya lyublyu)
+我爱你 (Wǒ ài nǐ)
+愛してる (Aishiteru)
+사랑해 (Saranghae)
+أحبك (Uḥibbuka / Uḥibbuki)
+אני אוהב אותך (Ani ohev otach)
+मैं तुमसे प्यार करता हूँ (Main tumse pyaar karta hoon)
+আমি তোমায় ভালোবাসি (Āmi tōmāẏ bhālōbāsi)
+أنا أحبك (Ana uhibbuka)
+אני אוהב אותך (Ani ohev otach)
+Je t’aime
+Ich liebe dich
+Ti amo
+Eu te amo
+Я тебя люблю (Ya tebya lyublyu)
+我爱你 (Wǒ ài nǐ)
+愛してる (Aishiteru)
+사랑해 (Saranghae)
+أحبك (Uḥibbuka / Uḥibbuki)
+אני אוהב אותך (Ani ohev otach)
+मैं तुमसे प्यार करता हूँ (Main tumse pyaar karta hoon)
+আমি তোমায় ভালোবাসি (Āmi tōmāẏ bhālōbāsi)
+أنا أحبك (Ana uhibbuka)
+אני אוהב אותך (Ani ohev otach)
+Je t’aime
+Ich liebe dich
+Ti amo
+Eu te amo
+Я тебя люблю (Ya tebya lyublyu)
+我爱你 (Wǒ ài nǐ)
+愛してる (Aishiteru)
+사랑해 (Saranghae)
+أحبك (Uḥibbuka / Uḥibbuki)
+אני אוהב אותך (Ani ohev otach)
+मैं तुमसे प्यार करता हूँ (Main tumse pyaar karta hoon)
+আমি তোমায় ভালোবাসি (Āmi tōmāẏ bhālōbāsi)
+أنا أحبك (Ana uhibbuka)
+אני אוהב אותך (Ani ohev otach)
+Je t’aime
+Ich liebe dich
+Ti amo
+Eu te amo
+Я тебя люблю (Ya tebya lyublyu)
+我爱你 (Wǒ ài nǐ)
+愛してる (Aishiteru)
+사랑해 (Saranghae)
+أحبك (Uḥibbuka / Uḥibbuki)
+אני אוהב אותך (Ani ohev otach)
+मैं तुमसे प्यार करता हूँ (Main tumse pyaar karta hoon)
+আমি তোমায় ভালোবাসি (Āmi tōmāẏ bhālōbāsi)
+أنا أحبك (Ana uhibbuka)
+אני אוהב אותך (Ani ohev otach)
+Je t’aime
+Ich liebe dich
+Ti amo
+Eu te amo
+Я тебя люблю (Ya tebya lyublyu)
+我爱你 (Wǒ ài nǐ)
+愛してる (Aishiteru)
+사랑해 (Saranghae)
+أحبك (Uḥibbuka / Uḥibbuki)
+אני אוהב אותך (Ani ohev otach)
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
