@@ -1,4 +1,4 @@
-# 📜 README - Script de spam de "Eu te amo" no WhatsApp 
+# 📜 README - Spam de "Eu te amo" no Wpp 
 
 
 ## 🚀 Como Usar
