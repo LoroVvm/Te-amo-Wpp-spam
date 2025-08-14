@@ -14,4 +14,3 @@ Pronto! O script será executado na conversa selecionada.
 
 ---
 Feito para a minha Julia
-.
