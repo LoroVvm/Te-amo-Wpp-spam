@@ -1,4 +1,4 @@
-# 📜 README - Como Usar o Script JS no WhatsApp Web
+# 📜 README - Script de spam de "Eu te amo" no WhatsApp 
 
 
 ## 🚀 Como Usar
