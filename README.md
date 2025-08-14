@@ -8,7 +8,7 @@
 3. Pressione `F12` ou clique com o botão direito e escolha **"Inspecionar"** para abrir o console do navegador.
 4. **Copie todo o código RAW** do script JS.
 5. **Cole o código** no console e pressione `Enter`.
-
+6. Após as mensagens serem enviadas, restará apenas 1, **pressione** `Enter` uma última vez
 Pronto! O script será executado na conversa selecionada.
 
 
