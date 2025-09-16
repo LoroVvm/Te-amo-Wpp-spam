@@ -173,6 +173,7 @@ Vietnamita: Anh yêu em
 Yorubá: Mo ni fe
 
 Zulu: Ngiyakuthanda
+
 `;
 
     const lines = texto.split('\n').map(l => l.trim()).filter(l => l);
